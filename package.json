@@ -1,0 +1,12 @@
+{
+  "name": "tp4",
+  "version": "1.0.0",
+  "description": "arrancando tp4",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matias Wilder",
+  "license": "ISC"
+}
